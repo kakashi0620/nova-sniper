@@ -1,0 +1,1 @@
+This repository is intended to store the results produced by the miner during drug discovery.
